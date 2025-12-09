@@ -3,7 +3,7 @@
   "versions": {
     "1.0.0": {
       "name": "AshClient 1.0.0",
-      "jarFile": "ashclient-1.0.0.jar",
+      "jarFile": "ashclient-1.8.9.jar",
       "releaseNotes": "First public AshClient build."
     }
   }
