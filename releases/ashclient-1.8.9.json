@@ -1,0 +1,18 @@
+{
+  "id": "ashclient-1.8.9",
+  "time": "2025-12-06T00:00:00+00:00",
+  "releaseTime": "2025-12-06T00:00:00+00:00",
+  "type": "release",
+
+  "mainClass": "net.minecraft.client.main.Main",
+
+  "jar": "ashclient-1.8.9",
+
+  "libraries": [
+    {
+      "name": "net.minecraft:launchwrapper:1.12"
+    }
+  ],
+
+  "minecraftArguments": "--username ${auth_player_name} --version ashclient-1.8.9 --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex 1.8 --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType msa --versionType release"
+}
